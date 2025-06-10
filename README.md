@@ -1,4 +1,4 @@
-            /* هذا التطبيق يقوم بحساب الجرعات المطلوبه لأخذ حقنه المنجارو بأحجامها الموجوده في السواق
+            /* هذا التطبيق يقوم بحساب الجرعات المطلوبه لأخذ حقنه المنجارو بأحجامها الموجوده في الاسواق
             وهو صدقةعلي روح كلا من جدي وجدتي 
             ادعو الله لهم ان يرحمهم ويدخلهم فسيح جناته 
             وان يرحم اموات المسلمين جميعا 
@@ -152,7 +152,7 @@
 
             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
             Console.WriteLine(" ");
-            Console.WriteLine(" This application is intended to help all sick people calculate the required dose in a Mingaroo injection ");
+            Console.WriteLine(" This application is intended to help all sick people calculate the required dose in a Mounjaro injection ");
             Console.WriteLine(" ");
             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
         }
